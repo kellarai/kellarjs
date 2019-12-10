@@ -1,6 +1,6 @@
 # kellarjs - JS client for Kellar
 
-This is a JavaScript/TypeScript client for Kellar, the AI-powered faker. Currently, Kellar is in beta stage and not yet open for public. For more information, check www.kellar.ai
+This is a JavaScript/TypeScript client for Kellar, the AI-powered faker. Currently, Kellar is in a beta stage and not yet open for public. For more information, check www.kellar.ai
 
 Install with:
 
