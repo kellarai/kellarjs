@@ -1,6 +1,8 @@
 # kellarjs - JS client for Kellar
+![Image description](https://www.kellar.ai/logo.png)
 
 [![Build Status](https://travis-ci.com/kellarai/kellarjs.svg?branch=master)](https://travis-ci.com/kellarai/kellarjs)
+
 
 This is a JavaScript/TypeScript client for Kellar, the AI-powered faker. 
 
