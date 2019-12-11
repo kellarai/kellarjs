@@ -2,7 +2,11 @@
 
 [![Build Status](https://travis-ci.com/kellarai/kellarjs.svg?branch=master)](https://travis-ci.com/kellarai/kellarjs)
 
-This is a JavaScript/TypeScript client for Kellar, the AI-powered faker. Currently, Kellar is in a beta stage and not yet open for public. For more information, check www.kellar.ai
+This is a JavaScript/TypeScript client for Kellar, the AI-powered faker. 
+
+With Kellar, you can build AI-driven models of your own data and generate limitless amount of fully realistic synthetic data, tuned just for your own specific use case. Currently, Kellar is in a beta stage and not yet open for public. 
+
+For more information, visit www.kellar.ai
 
 Install with:
 
