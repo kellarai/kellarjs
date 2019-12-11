@@ -1,6 +1,6 @@
 {
   "name": "kellar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Javascript client for Kellar, the AI powered faker",
   "repository": {
     "type": "git",
